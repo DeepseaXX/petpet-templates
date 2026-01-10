@@ -1,0 +1,28 @@
+{
+  "type": "image",
+  "metadata": {
+    "alias": ["吉田指"],
+    "preview": "./0.png",
+    "inRandomList": true,
+    "template_version": 0
+  },
+  "elements": [
+    {
+      "type": "image",
+      "id": "avatar",
+      "key": "to",
+      "fit": "fill",
+      "coords": [395, 86, 345,345],
+      "position": "center center"
+    },
+    {
+      "type": "image",
+      "src": "./0.png",
+      "coords": [0, 0, 795, 562]
+    }
+  ],
+  "canvas": {
+    "width": "795px",
+    "height": "562px"
+  }
+}
