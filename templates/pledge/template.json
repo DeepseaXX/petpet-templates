@@ -28,6 +28,7 @@
       "key": "to",
       "fit": "contain",
       "coords": [335, 475, "22vw", "22vw"],
+      "Border": "0px",
       "position": "-10% center"
     }
   ],
